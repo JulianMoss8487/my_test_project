@@ -8,10 +8,12 @@ We hope to learn more about:
 - Adding stylings to HTML elements (CSS)
 - Manipulating HTML elements (JS)
 
-## Tools we are using
+## Tools and Libraries we are using
 - Visual Studio Code
 - Bash commands
 - Git and GitHub
+- CDN (Content Delivery Network)
+- Basics of jQuery
 - Awesome iMac
 
 ### To run
