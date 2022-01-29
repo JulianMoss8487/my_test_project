@@ -11,6 +11,7 @@ We hope to learn more about:
 ## Tools we are using
 - Visual Studio Code
 - Bash commands
+- Git and GitHub
 - Awesome iMac
 
 ### To run
